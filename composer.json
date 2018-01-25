@@ -1,0 +1,13 @@
+{
+    "name": "renatohysa/proxymedium",
+    "authors": [
+        {
+            "name": "Devlob",
+            "email": "devlobchannel@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
